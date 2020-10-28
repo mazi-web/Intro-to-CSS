@@ -1,0 +1,25 @@
+body {
+	background-image: url("chrisland.jpeg");
+}
+h1 {
+	font-family: algerian;
+}
+p {
+	font-size: 20px;
+}
+button, a {
+	text-decoration: none;
+}
+nav {
+	position: fixed;
+	background-color: green;
+	margin-left: -8px;
+	padding-right: 904.5px;
+	margin-right: -904.5px;
+}
+li, a {
+	text-decoration: none;
+	display: inline;
+	color: white;
+	padding: 8px 16px;
+}

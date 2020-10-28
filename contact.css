@@ -1,0 +1,33 @@
+body {
+		background-image: url("chrisland.jpeg");
+}
+p {
+	font-size: 20px;
+}
+div.con {
+	background-color: #00ff59;
+	margin-right: 700px;
+}
+button, a {
+	text-decoration: none;
+
+}
+nav {
+	position: fixed;
+	background-color: green;
+	margin-left: -8px;
+	padding-right: 904.5px;
+	margin-right: -904.5px;
+}
+li, a {
+	text-decoration: none;
+	display: inline;
+	color: white;
+	padding: 8px 16px;
+}
+.list li {
+	font-size: 20px;
+	color: black;
+	display: block;
+	margin-left: -55px;
+}
